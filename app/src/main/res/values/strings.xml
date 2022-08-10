@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sample_lyrics_content_description">sample lyrics content description</string>
+    <string name="sample_lyrics_title">Sample lyrics Title</string>
+    <string name="sample_lyrics_content">sample lyrics content</string>
+    <string name="shalom_lyrics">Shalom Lyrics</string>
+</resources>

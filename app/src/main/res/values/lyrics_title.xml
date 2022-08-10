@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lyrics_title">
+
+        <item>እንዳልሆን</item>
+        <item>እየሱስ</item>
+        <item>ምስጋናዬ</item>
+        <item>አለኝ</item>
+        <item>ደስ ብሎናል</item>
+        <item>መልካም ይሁን</item>
+        <item>አትልቀቀኝ</item>
+        <item>eight</item>
+    </string-array>
+</resources>
